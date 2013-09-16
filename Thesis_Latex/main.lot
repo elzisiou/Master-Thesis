@@ -1,0 +1,30 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {3.1}{\ignorespaces Classification of PDEs}}{28}{table.3.1}
+\contentsline {table}{\numberline {3.2}{\ignorespaces Conclusion Table}}{51}{table.3.2}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {5.1}{\ignorespaces Cyclic Reduction (first version) execution time (SP)}}{66}{table.5.1}
+\contentsline {table}{\numberline {5.2}{\ignorespaces Cyclic Reduction (first version) speed-up (SP)}}{67}{table.5.2}
+\contentsline {table}{\numberline {5.3}{\ignorespaces Cyclic Reduction (padding version) execution time (SP)}}{68}{table.5.3}
+\contentsline {table}{\numberline {5.4}{\ignorespaces Cyclic Reduction (padding version) speed-up (SP)}}{68}{table.5.4}
+\contentsline {table}{\numberline {5.5}{\ignorespaces Block Cyclic Reduction N=3}}{69}{table.5.5}
+\contentsline {table}{\numberline {5.6}{\ignorespaces Block Cyclic Reduction N=7}}{69}{table.5.6}
+\contentsline {table}{\numberline {5.7}{\ignorespaces Block Cyclic Reduction N=15}}{69}{table.5.7}
+\contentsline {table}{\numberline {5.8}{\ignorespaces Block Cyclic Reduction N=31}}{70}{table.5.8}
+\contentsline {table}{\numberline {5.9}{\ignorespaces Block Cyclic Reduction N=63}}{70}{table.5.9}
+\contentsline {table}{\numberline {5.10}{\ignorespaces Block Cyclic Reduction N=127}}{70}{table.5.10}
+\contentsline {table}{\numberline {5.11}{\ignorespaces Block Cyclic Reduction N=Q}}{71}{table.5.11}
+\contentsline {table}{\numberline {5.12}{\ignorespaces Cyclic Reduction (first version) execution time (DP)}}{73}{table.5.12}
+\contentsline {table}{\numberline {5.13}{\ignorespaces Cyclic Reduction (first version) speed-up (DP)}}{74}{table.5.13}
+\contentsline {table}{\numberline {5.14}{\ignorespaces Cyclic Reduction (padding version) execution time (DP)}}{75}{table.5.14}
+\contentsline {table}{\numberline {5.15}{\ignorespaces Cyclic Reduction (padding version) speed-up (DP)}}{75}{table.5.15}
+\contentsline {table}{\numberline {5.16}{\ignorespaces Block Cyclic Reduction N=3}}{76}{table.5.16}
+\contentsline {table}{\numberline {5.17}{\ignorespaces Block Cyclic Reduction N=7}}{76}{table.5.17}
+\contentsline {table}{\numberline {5.18}{\ignorespaces Block Cyclic Reduction N=15}}{76}{table.5.18}
+\contentsline {table}{\numberline {5.19}{\ignorespaces Block Cyclic Reduction N=31}}{77}{table.5.19}
+\contentsline {table}{\numberline {5.20}{\ignorespaces Block Cyclic Reduction N=63}}{77}{table.5.20}
+\contentsline {table}{\numberline {5.21}{\ignorespaces Block Cyclic Reduction N=127}}{77}{table.5.21}
+\contentsline {table}{\numberline {5.22}{\ignorespaces Block Cyclic Reduction N=Q}}{78}{table.5.22}
+\addvspace {10\p@ }

@@ -1,0 +1,22 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2-1}{\ignorespaces GPU Architecture}}{18}{figure.2.1}
+\contentsline {figure}{\numberline {2-2}{\ignorespaces Kepler Architecture}}{20}{figure.2.2}
+\contentsline {figure}{\numberline {2-3}{\ignorespaces Warp Scheduler}}{21}{figure.2.3}
+\contentsline {figure}{\numberline {2-4}{\ignorespaces Kepler Memory Hierarchy}}{22}{figure.2.4}
+\contentsline {figure}{\numberline {2-5}{\ignorespaces Cuda Blocks}}{24}{figure.2.5}
+\contentsline {figure}{\numberline {2-6}{\ignorespaces Cuda Grids}}{25}{figure.2.6}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3-1}{\ignorespaces Discretization Techniques}}{49}{figure.3.1}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4-1}{\ignorespaces CR Method}}{55}{figure.4.1}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5-1}{\ignorespaces CPU-GPU Cyclic Reduction(SP)}}{66}{figure.5.1}
+\contentsline {figure}{\numberline {5-2}{\ignorespaces Speedup Cyclic Reduction(SP)}}{67}{figure.5.2}
+\contentsline {figure}{\numberline {5-3}{\ignorespaces Speedup Buneman(SP)}}{71}{figure.5.3}
+\contentsline {figure}{\numberline {5-4}{\ignorespaces Speedup Buneman N=Q (SP)}}{72}{figure.5.4}
+\contentsline {figure}{\numberline {5-5}{\ignorespaces CPU-GPU Cyclic Reduction(DP)}}{73}{figure.5.5}
+\contentsline {figure}{\numberline {5-6}{\ignorespaces Speedup Cyclic Reduction(DP)}}{74}{figure.5.6}
+\contentsline {figure}{\numberline {5-7}{\ignorespaces Speedup Buneman(DP)}}{78}{figure.5.7}
+\contentsline {figure}{\numberline {5-8}{\ignorespaces Speedup Buneman N=Q (DP)}}{79}{figure.5.8}
+\addvspace {10\p@ }

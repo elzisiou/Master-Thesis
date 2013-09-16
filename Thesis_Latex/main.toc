@@ -1,0 +1,27 @@
+\contentsline {chapter}{\numberline {1}Introduction}{15}{chapter.1}
+\contentsline {chapter}{\numberline {2}GPUs and Parallel Programming Models}{17}{chapter.2}
+\contentsline {section}{\numberline {2.1}Graphics Processing Units (GPU) Computing}{17}{section.2.1}
+\contentsline {section}{\numberline {2.2}NVIDIA's Kepler Architecture}{19}{section.2.2}
+\contentsline {section}{\numberline {2.3}NVIDIA CUDA Programming Model}{23}{section.2.3}
+\contentsline {chapter}{\numberline {3}A Review of Solving Partial Differential Equations (PDEs)}{27}{chapter.3}
+\contentsline {section}{\numberline {3.1}About PDEs}{27}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Finite Difference Methods for Solving Elliptic PDEs}{28}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Finite Difference Methods for Solving Parabolic PDE's}{29}{subsection.3.1.2}
+\contentsline {section}{\numberline {3.2}Stencil Computation}{29}{section.3.2}
+\contentsline {section}{\numberline {3.3}Solvers for PDEs}{35}{section.3.3}
+\contentsline {section}{\numberline {3.4}Conclusions of Review}{49}{section.3.4}
+\contentsline {chapter}{\numberline {4}Implementation}{53}{chapter.4}
+\contentsline {section}{\numberline {4.1}Cyclic Reduction}{53}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}The algorithm}{53}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Implementation Issues}{55}{subsection.4.1.2}
+\contentsline {section}{\numberline {4.2}Block Cyclic Reduction}{59}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}The algorithm}{59}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Implementation Issues}{61}{subsection.4.2.2}
+\contentsline {chapter}{\numberline {5}Results}{65}{chapter.5}
+\contentsline {section}{\numberline {5.1}Hardware and Metrics}{65}{section.5.1}
+\contentsline {section}{\numberline {5.2}Experiments}{65}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Single Precision Performance}{66}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Double Precision Performance}{73}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}Conclusions}{79}{subsection.5.2.3}
+\contentsline {subsection}{\numberline {5.2.4}Further Improvements}{80}{subsection.5.2.4}
+\contentsline {chapter}{\numberline {A}}{81}{appendix.A}
